@@ -1,0 +1,317 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 793px;
+	 height: 2325px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 793px;
+	 height: 2325px;
+	 z-index:1;
+} 
+
+ #Rectangle6copy 
+{ 
+	 left: 100px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 65px;
+	 z-index:2;
+} 
+
+ #Viewthisemailinyourb 
+{ 
+	 left: 538px; 
+	 top: 25px; 
+	 position: absolute; 
+	 width: 150px;
+	 height: 10px;
+	 z-index:3;
+} 
+
+ #logo 
+{ 
+	 left: 275px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 39px;
+	 z-index:4;
+} 
+
+ #f 
+{ 
+	 left: 114px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 26px;
+	 z-index:5;
+} 
+
+ #l 
+{ 
+	 left: 149px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 26px;
+	 z-index:6;
+} 
+
+ #Rectangle6 
+{ 
+	 left: 100px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 127px;
+	 z-index:7;
+} 
+
+ #INTRODUCTIONTEXT 
+{ 
+	 left: 337px; 
+	 top: 400px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 10px;
+	 z-index:8;
+} 
+
+ #christmasbanner 
+{ 
+	 left: 100px; 
+	 top: 65px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 284px;
+	 z-index:9;
+} 
+
+ #ITEM1 
+{ 
+	 left: 100px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 344px;
+	 z-index:10;
+} 
+
+ #Rectangle4copy6 
+{ 
+	 left: 100px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 205px;
+	 z-index:11;
+} 
+
+ #Group3 
+{ 
+	 left: 503px; 
+	 top: 844px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 179px;
+	 z-index:12;
+} 
+
+ #Group2 
+{ 
+	 left: 309px; 
+	 top: 844px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 179px;
+	 z-index:13;
+} 
+
+ #Group1 
+{ 
+	 left: 115px; 
+	 top: 844px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 179px;
+	 z-index:14;
+} 
+
+ #Newfeatures 
+{ 
+	 left: 341px; 
+	 top: 835px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 20px;
+	 z-index:15;
+} 
+
+ #ITEM3 
+{ 
+	 left: 100px; 
+	 top: 1025px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 181px;
+	 z-index:16;
+} 
+
+ #ITEM4 
+{ 
+	 left: 100px; 
+	 top: 1206px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 223px;
+	 z-index:17;
+} 
+
+ #Findvalueaddedtoolsf 
+{ 
+	 left: 100px; 
+	 top: 1429px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 155px;
+	 z-index:18;
+} 
+
+ #vat1 
+{ 
+	 left: 94px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 94px;
+	 z-index:19;
+} 
+
+ #vat2 
+{ 
+	 left: 234px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 94px;
+	 z-index:20;
+} 
+
+ #vat3 
+{ 
+	 left: 374px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 94px;
+	 z-index:21;
+} 
+
+ #vat4 
+{ 
+	 left: 521px; 
+	 top: 1469px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 94px;
+	 z-index:22;
+} 
+
+ #ReadNewsReviewsTips 
+{ 
+	 left: 100px; 
+	 top: 1584px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 176px;
+	 z-index:23;
+} 
+
+ #news 
+{ 
+	 left: 149px; 
+	 top: 1612px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 147px;
+	 z-index:24;
+} 
+
+ #reviews 
+{ 
+	 left: 489px; 
+	 top: 1612px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 147px;
+	 z-index:25;
+} 
+
+ #tips 
+{ 
+	 left: 319px; 
+	 top: 1612px; 
+	 position: absolute; 
+	 width: 146px;
+	 height: 147px;
+	 z-index:26;
+} 
+
+ #brandpresence 
+{ 
+	 left: 100px; 
+	 top: 1760px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 357px;
+	 z-index:27;
+} 
+
+ #Rectangle5copy 
+{ 
+	 left: 100px; 
+	 top: 2117px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 2px;
+	 z-index:28;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 100px; 
+	 top: 2119px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 206px;
+	 z-index:29;
+} 
+
+ #AutoVoloLtd6Devonshi 
+{ 
+	 left: 117px; 
+	 top: 2142px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 155px;
+	 z-index:30;
+} 
